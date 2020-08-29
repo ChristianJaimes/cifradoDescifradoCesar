@@ -1,0 +1,7848 @@
+{
+  "Name": "ROBOT 6 - DIEBOLD 1031",
+  "CurrentPosition": {
+    "Order": 15,
+    "Base": 90,
+    "Shoulder": 180,
+    "Elbow": 90,
+    "Hand": 25,
+    "Wrist": 90,
+    "Grip": 115,
+    "Speed": 70,
+    "Pause": 0
+  },
+  "SelectedPosition": {
+    "Order": 5,
+    "Base": 90,
+    "Shoulder": 180,
+    "Elbow": 90,
+    "Hand": 25,
+    "Wrist": 90,
+    "Grip": 115,
+    "Speed": 70,
+    "Pause": 0
+  },
+  "Movements": [
+    {
+      "Name": "ANOTACION",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 110,
+          "Shoulder": 115,
+          "Elbow": 120,
+          "Hand": 33,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 110,
+          "Shoulder": 95,
+          "Elbow": 120,
+          "Hand": 33,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 110,
+          "Shoulder": 110,
+          "Elbow": 120,
+          "Hand": 33,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "BOTON1",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 82,
+          "Shoulder": 120,
+          "Elbow": 130,
+          "Hand": 100,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 82,
+          "Shoulder": 105,
+          "Elbow": 130,
+          "Hand": 100,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 82,
+          "Shoulder": 120,
+          "Elbow": 130,
+          "Hand": 100,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "BOTON2",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 82,
+          "Shoulder": 125,
+          "Elbow": 115,
+          "Hand": 95,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 82,
+          "Shoulder": 105,
+          "Elbow": 115,
+          "Hand": 95,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 82,
+          "Shoulder": 130,
+          "Elbow": 115,
+          "Hand": 95,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "BOTON3",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 82,
+          "Shoulder": 140,
+          "Elbow": 95,
+          "Hand": 105,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 82,
+          "Shoulder": 115,
+          "Elbow": 95,
+          "Hand": 105,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 82,
+          "Shoulder": 130,
+          "Elbow": 95,
+          "Hand": 105,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "BOTON4",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 82,
+          "Shoulder": 135,
+          "Elbow": 82,
+          "Hand": 105,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 82,
+          "Shoulder": 120,
+          "Elbow": 82,
+          "Hand": 105,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 82,
+          "Shoulder": 140,
+          "Elbow": 82,
+          "Hand": 105,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "BOTON4T",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 60,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 45,
+          "Shoulder": 120,
+          "Elbow": 125,
+          "Hand": 105,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 45,
+          "Shoulder": 100,
+          "Elbow": 135,
+          "Hand": 105,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 65,
+          "Shoulder": 100,
+          "Elbow": 135,
+          "Hand": 105,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "BOTON5",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 105,
+          "Shoulder": 125,
+          "Elbow": 130,
+          "Hand": 90,
+          "Wrist": 180,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 105,
+          "Shoulder": 100,
+          "Elbow": 130,
+          "Hand": 90,
+          "Wrist": 180,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 105,
+          "Shoulder": 130,
+          "Elbow": 115,
+          "Hand": 90,
+          "Wrist": 180,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "BOTON6",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 105,
+          "Shoulder": 130,
+          "Elbow": 115,
+          "Hand": 90,
+          "Wrist": 180,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 105,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 90,
+          "Wrist": 180,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 105,
+          "Shoulder": 135,
+          "Elbow": 115,
+          "Hand": 90,
+          "Wrist": 180,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "BOTON7",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 105,
+          "Shoulder": 140,
+          "Elbow": 95,
+          "Hand": 100,
+          "Wrist": 180,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 105,
+          "Shoulder": 115,
+          "Elbow": 95,
+          "Hand": 100,
+          "Wrist": 180,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 105,
+          "Shoulder": 135,
+          "Elbow": 95,
+          "Hand": 100,
+          "Wrist": 180,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "BOTON7T",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 120,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 135,
+          "Shoulder": 110,
+          "Elbow": 140,
+          "Hand": 105,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 135,
+          "Shoulder": 100,
+          "Elbow": 140,
+          "Hand": 105,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 115,
+          "Shoulder": 100,
+          "Elbow": 140,
+          "Hand": 105,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "BOTON8",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 105,
+          "Shoulder": 140,
+          "Elbow": 82,
+          "Hand": 100,
+          "Wrist": 180,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 105,
+          "Shoulder": 120,
+          "Elbow": 82,
+          "Hand": 100,
+          "Wrist": 180,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "BOTON8T",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 120,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 135,
+          "Shoulder": 115,
+          "Elbow": 120,
+          "Hand": 105,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 135,
+          "Shoulder": 110,
+          "Elbow": 120,
+          "Hand": 105,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 110,
+          "Shoulder": 110,
+          "Elbow": 120,
+          "Hand": 105,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CANCELAR",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 113,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 32,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 113,
+          "Shoulder": 105,
+          "Elbow": 100,
+          "Hand": 32,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 113,
+          "Shoulder": 130,
+          "Elbow": 100,
+          "Hand": 32,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CELULAR",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 17,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 18,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 19,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 20,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 21,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVE0048",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 82,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 82,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVE0713ANOTACION",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 82,
+          "Shoulder": 125,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 82,
+          "Shoulder": 110,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 84,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 84,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 100,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 100,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 113,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 113,
+          "Shoulder": 105,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 113,
+          "Shoulder": 130,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVE0764ANOTACION",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 82,
+          "Shoulder": 125,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 82,
+          "Shoulder": 110,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 100,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 100,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 82,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 82,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 113,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 113,
+          "Shoulder": 105,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 113,
+          "Shoulder": 130,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVE0987",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 82,
+          "Shoulder": 125,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 82,
+          "Shoulder": 110,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVE0987ANOTACION",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 82,
+          "Shoulder": 125,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 82,
+          "Shoulder": 110,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 113,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 113,
+          "Shoulder": 105,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 113,
+          "Shoulder": 130,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVE1234",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 84,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 84,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 100,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 100,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 82,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 82,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVE1234ANOTACION",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 84,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 84,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 100,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 100,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 82,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 82,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 113,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 113,
+          "Shoulder": 105,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 113,
+          "Shoulder": 130,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVE1281",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 84,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 84,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 84,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 84,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVE4321",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 82,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 82,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 100,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 100,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 84,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 84,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVE4321ANOTACION",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 82,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 82,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 100,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 100,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 84,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 84,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 113,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 113,
+          "Shoulder": 105,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 113,
+          "Shoulder": 130,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVE4421",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 82,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 82,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 82,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 82,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 84,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 84,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVE4567",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 82,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 82,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 105,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 100,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 27,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 100,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 27,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 82,
+          "Shoulder": 125,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 82,
+          "Shoulder": 110,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVE6120",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 100,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 27,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 100,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 27,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 84,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 84,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVE7282",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 82,
+          "Shoulder": 125,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 82,
+          "Shoulder": 110,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVE7890",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 82,
+          "Shoulder": 125,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 82,
+          "Shoulder": 110,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVE7890ANOTACION",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 82,
+          "Shoulder": 125,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 82,
+          "Shoulder": 110,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 113,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 113,
+          "Shoulder": 105,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 113,
+          "Shoulder": 130,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVE7890CANCELAR",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 82,
+          "Shoulder": 125,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 82,
+          "Shoulder": 110,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 113,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 113,
+          "Shoulder": 105,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 113,
+          "Shoulder": 130,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVEINCOMPLETA",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "CLAVEINCOMPLETACANCELAR",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 110,
+          "Shoulder": 115,
+          "Elbow": 120,
+          "Hand": 33,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 110,
+          "Shoulder": 95,
+          "Elbow": 120,
+          "Hand": 33,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 110,
+          "Shoulder": 110,
+          "Elbow": 120,
+          "Hand": 33,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "GUARDARCOMPROBANTE",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 60,
+          "Hand": 25,
+          "Wrist": 0,
+          "Grip": 150,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 60,
+          "Hand": 55,
+          "Wrist": 0,
+          "Grip": 150,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 75,
+          "Elbow": 60,
+          "Hand": 95,
+          "Wrist": 0,
+          "Grip": 90,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 60,
+          "Hand": 25,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "GUARDARDINERO",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 85,
+          "Hand": 25,
+          "Wrist": 0,
+          "Grip": 145,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 150,
+          "Shoulder": 180,
+          "Elbow": 85,
+          "Hand": 25,
+          "Wrist": 0,
+          "Grip": 145,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 150,
+          "Shoulder": 90,
+          "Elbow": 85,
+          "Hand": 25,
+          "Wrist": 0,
+          "Grip": 145,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 150,
+          "Shoulder": 90,
+          "Elbow": 85,
+          "Hand": 35,
+          "Wrist": 0,
+          "Grip": 90,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 150,
+          "Shoulder": 180,
+          "Elbow": 85,
+          "Hand": 25,
+          "Wrist": 0,
+          "Grip": 90,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 85,
+          "Hand": 25,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "INSERTARTARJETA",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 60,
+          "Hand": 25,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "ZZZZ",
+      "Steps": []
+    },
+    {
+      "Name": "MONTO10MILLONES",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 84,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 84,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 17,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 18,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 19,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 20,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 21,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 22,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 23,
+          "Base": 113,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 24,
+          "Base": 113,
+          "Shoulder": 105,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 25,
+          "Base": 113,
+          "Shoulder": 130,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 26,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "MONTO14MIL",
+      "Steps": []
+    },
+    {
+      "Name": "MONTO19MIL",
+      "Steps": []
+    },
+    {
+      "Name": "MONTO20MIL",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 17,
+          "Base": 113,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 18,
+          "Base": 113,
+          "Shoulder": 105,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 19,
+          "Base": 113,
+          "Shoulder": 130,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 20,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "MONTO40MIL",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 82,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 82,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 17,
+          "Base": 113,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 18,
+          "Base": 113,
+          "Shoulder": 105,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 19,
+          "Base": 113,
+          "Shoulder": 130,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 20,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "MONTO40MILSINANOTACION",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 82,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 82,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 17,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "MONTO5MIL",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 105,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 113,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 113,
+          "Shoulder": 105,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 17,
+          "Base": 113,
+          "Shoulder": 130,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 18,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "MONTO6MILLONES",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 100,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 27,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 100,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 27,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 17,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 18,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 19,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 20,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 21,
+          "Base": 113,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 22,
+          "Base": 113,
+          "Shoulder": 105,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 23,
+          "Base": 113,
+          "Shoulder": 130,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 24,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "MONTO800PESOS",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 113,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 113,
+          "Shoulder": 105,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 17,
+          "Base": 113,
+          "Shoulder": 130,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 18,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "MONTO800PESOSSINANOTACION",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "MONTO80PESOS",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 113,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 113,
+          "Shoulder": 105,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 113,
+          "Shoulder": 130,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "MONTO8MIL",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 113,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 113,
+          "Shoulder": 105,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 17,
+          "Base": 113,
+          "Shoulder": 130,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 18,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "MONTO900MIL",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 17,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 18,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 19,
+          "Base": 113,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 20,
+          "Base": 113,
+          "Shoulder": 105,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 21,
+          "Base": 113,
+          "Shoulder": 130,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 22,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "MONTO999",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 113,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 17,
+          "Base": 113,
+          "Shoulder": 105,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 18,
+          "Base": 113,
+          "Shoulder": 130,
+          "Elbow": 100,
+          "Hand": 35,
+          "Wrist": 110,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 19,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "PINCLIENTENORMAL",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 105,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 90,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 100,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 100,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 17,
+          "Base": 90,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 18,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 19,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "PINCLIENTEPERSONALIZADO",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 100,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 100,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 82,
+          "Shoulder": 125,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 8,
+          "Base": 82,
+          "Shoulder": 110,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 9,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 10,
+          "Base": 84,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 11,
+          "Base": 84,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 12,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 13,
+          "Base": 100,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 14,
+          "Base": 100,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 15,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 16,
+          "Base": 82,
+          "Shoulder": 125,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 17,
+          "Base": 82,
+          "Shoulder": 110,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 18,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 19,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 90,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "PININVALIDOAHORROALAMANO",
+      "Steps": []
+    },
+    {
+      "Name": "RETIRARRECIBONCR",
+      "Steps": []
+    },
+    {
+      "Name": "RETIRO",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 60,
+          "Hand": 25,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 80,
+          "Elbow": 50,
+          "Hand": 120,
+          "Wrist": 0,
+          "Grip": 75,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 70,
+          "Elbow": 55,
+          "Hand": 130,
+          "Wrist": 0,
+          "Grip": 75,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 65,
+          "Elbow": 55,
+          "Hand": 140,
+          "Wrist": 0,
+          "Grip": 75,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 65,
+          "Elbow": 55,
+          "Hand": 140,
+          "Wrist": 0,
+          "Grip": 150,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 60,
+          "Hand": 25,
+          "Wrist": 0,
+          "Grip": 150,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "RETIRO22",
+      "Steps": []
+    },
+    {
+      "Name": "SACARCOMPROBANTE",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 35,
+          "Hand": 120,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 155,
+          "Elbow": 30,
+          "Hand": 120,
+          "Wrist": 0,
+          "Grip": 50,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 145,
+          "Elbow": 30,
+          "Hand": 140,
+          "Wrist": 0,
+          "Grip": 50,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 145,
+          "Elbow": 30,
+          "Hand": 140,
+          "Wrist": 0,
+          "Grip": 150,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "SACARTARJETA",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 60,
+          "Hand": 25,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "SEGURIDAD",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 60,
+          "Hand": 25,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 180,
+          "Elbow": 90,
+          "Hand": 25,
+          "Wrist": 0,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "TECLA0",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "TECLA1",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 84,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 84,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "TECLA2",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 35,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "TECLA3",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 100,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 100,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 36,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "TECLA4",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 82,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 82,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 75,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "TECLA5",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 105,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "TECLA6",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 100,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 27,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 100,
+          "Shoulder": 100,
+          "Elbow": 115,
+          "Hand": 27,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "TECLA7",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 82,
+          "Shoulder": 125,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 82,
+          "Shoulder": 110,
+          "Elbow": 95,
+          "Hand": 35,
+          "Wrist": 80,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "TECLA8",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 120,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 110,
+          "Elbow": 100,
+          "Hand": 27,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "TECLA9",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 103,
+          "Shoulder": 125,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 103,
+          "Shoulder": 115,
+          "Elbow": 90,
+          "Hand": 37,
+          "Wrist": 95,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 115,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "TIMER",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 75,
+          "Shoulder": 150,
+          "Elbow": 85,
+          "Hand": 25,
+          "Wrist": 70,
+          "Grip": 140,
+          "Speed": 90,
+          "Pause": 1000
+        }
+      ]
+    },
+    {
+      "Name": "NUEVOMOVIMIENTO",
+      "Steps": []
+    },
+    {
+      "Name": "ZZZ",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 100,
+          "Shoulder": 109,
+          "Elbow": 140,
+          "Hand": 73,
+          "Wrist": 65,
+          "Grip": 140,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 150,
+          "Elbow": 60,
+          "Hand": 25,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    },
+    {
+      "Name": "ZERO_0-00",
+      "Steps": [
+        {
+          "Order": 1,
+          "Base": 90,
+          "Shoulder": 130,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 2,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 3,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 4,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 5,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 6,
+          "Base": 90,
+          "Shoulder": 115,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        },
+        {
+          "Order": 7,
+          "Base": 90,
+          "Shoulder": 125,
+          "Elbow": 85,
+          "Hand": 32,
+          "Wrist": 85,
+          "Grip": 115,
+          "Speed": 70,
+          "Pause": 0
+        }
+      ]
+    }
+  ]
+}
